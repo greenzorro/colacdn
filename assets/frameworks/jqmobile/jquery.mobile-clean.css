@@ -13,7 +13,7 @@
 
 /* Loader */
 .ui-icon-loading {
-	background: url(ajax-loader.gif);
+	background: url(images/ajax-loader.gif);
 	background-size: 2.875em 2.875em;
 }
 
